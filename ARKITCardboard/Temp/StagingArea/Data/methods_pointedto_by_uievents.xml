@@ -1,8 +1,0 @@
-<linker>
-	<assembly fullname="Assembly-CSharp">
-		<type fullname="GVRARSwitchers">
-			<method name="vrSwitchToggle"/>
-			<method name="Switch"/>
-		</type>
-	</assembly>
-</linker>
