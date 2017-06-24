@@ -9,9 +9,13 @@
 Instalation Guide
 Setup your dev enviorment for Apple Iphone AR Kit,
 https://forum.unity3d.com/threads/arkit-support-for-ios-via-unity-arkit-plugin.474385/
-
+The basis includes
+ios 11 
+ xcode 9 beta 2
+ unity 5.6.1 p 1
 
 ToDo
+
 -Fix distortion issues on hmd ar mode
 
 -Allow for easier mode managament.
