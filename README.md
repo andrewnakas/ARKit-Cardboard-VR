@@ -1,9 +1,25 @@
 # ARKit Cardboard VR
 
-Apple pressed a button and every iphone 6s and above will have acess to arkit and the 6dof motion tracking that comes with it. This project takes the last non native cardboard vr sdk, gvr .85 and incorporates it with AR kit allowing to a user toggle between both headset vr and ar modes as well as normal hanfheld motion tracked vr and ar modes.
-
-The vr examples just make gvr camera active and parent them to the arcamera gameobject.
-For the stereo AR example the ar camera get pass to a render texture on a quad which the gvr camera then points at. 
+ This project takes the last non native cardboard vr sdk, gvr .85 and incorporates it with apple's AR kit allowing a user to toggle between both handheld and headset VR displays
 
 
 
+![alt text](http://i.imgur.com/WedVqFt.gif)
+
+Instalation Guide
+Setup your dev enviorment for Apple Iphone AR Kit,
+https://forum.unity3d.com/threads/arkit-support-for-ios-via-unity-arkit-plugin.474385/
+The basis includes
+ios 11, 
+ xcode 9 beta 2,
+ unity 5.6.1 p 1
+
+ToDo
+
+-Fix distortion issues on hmd ar mode
+
+-Allow for easier mode managament.
+
+-Get raycast hooked up to the proper cameras when switching.
+
+-Fix the temporary vr camera switching issue that causes the stuttering. 
