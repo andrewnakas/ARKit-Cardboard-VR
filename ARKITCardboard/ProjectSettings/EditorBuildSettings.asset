@@ -6,20 +6,39 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/UnityARKitScene.unity
+    path: Assets/Examples/UnityARKitScene/UnityARKitScene.unity
     guid: c159f2591a9b5c843b0a0442451f78f8
   - enabled: 0
-    path: Assets/UnityParticlePainter.unity
+    path: Assets/Examples/UnityParticlePainter/UnityParticlePainter.unity
     guid: 0327f0aa0142146c291df8203b848257
   - enabled: 0
-    path: Assets/UnityARBallz.unity
+    path: Assets/Examples/UnityARBallz/UnityARBallz.unity
     guid: 75972bcfc855b486593ec2ec68da0b81
   - enabled: 0
-    path: Assets/UnityARShadows.unity
+    path: Assets/Examples/UnityARShadows/UnityARShadows.unity
     guid: 14d17ec7304f440b48e6b953ba7a5895
   - enabled: 0
-    path: Assets/UnityAROcclusion.unity
+    path: Assets/Examples/UnityAROcclusion/UnityAROcclusion.unity
     guid: 7f026c59fb9d6489ab924c6e0e119760
+  - enabled: 0
+    path: Assets/UnityARKitPlugin/ARKitRemote/UnityARKitRemote.unity
+    guid: 3ed73c0c9d4b76a418a0541c0cefd3ac
+  - enabled: 0
+    path: Assets/Examples/FocusSquare/FocusSquareScene.unity
+    guid: 3c9ef824a7b95400bade362484e9b6af
+  - enabled: 0
+    path: Assets/Examples/FaceTracking/FaceAnchorScene.unity
+    guid: 46e299c2ec1244fbaa1b9b14e2ab198a
+  - enabled: 0
+    path: Assets/Examples/FaceTracking/FaceMeshScene.unity
+    guid: e95b28d2a95b34b868e407dc86a3e6d2
+  - enabled: 0
+    path: Assets/Examples/FaceTracking/FaceBlendshapeScene.unity
+    guid: 74c2619dd419d4704bba49146f77161d
+  - enabled: 0
+    path: Assets/Examples/FaceTracking/FaceDirectionalLightEstimate.unity
+    guid: 360fd35caee4f4e069485021a27c0b06
   - enabled: 1
     path: Assets/GVRXARKIT.unity
     guid: c5c036b71f2d4442fb3f07a426d6e2c7
+  m_configObjects: {}
